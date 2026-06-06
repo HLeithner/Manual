@@ -24,5 +24,10 @@ this type to ensure it loads before any other plugin, as this is critical for ba
 ### Detailed documentation
 
 :::warning[Reader Note]
-  Please read the [Compatibility Plugin 7.0](../64-70/compat-plugin.md) section
+  Please read the [Removed and Backward Incompatibility](removed-backward-incompatibility.md) section
 :::
+
+
+Related PRs are:
+* [47899](https://github.com/joomla/joomla-cms/pull/47899)
+  Move Crypt package to bc plugin
